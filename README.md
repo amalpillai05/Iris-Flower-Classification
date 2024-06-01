@@ -36,10 +36,9 @@ The classification aims to:
 
 1. Iris_Flower_Classification.ipynb: Jupyter Notebook containing the code.
 2. Iris.csv: CSV file containing the Iris dataset used for classification.
-3. README.md: Project overview, dataset description, analysis objectives, tools and technologies, files included, conclusion, and acknowledgements.
+3. README.md: Project overview, dataset description, classification objectives, tools and technologies, files included and conclusion.
 
 # CONCLUSION
-### CONCLUSION
 
 The Logistic Regression model effectively classifies iris flowers into their respective species with high accuracy, demonstrating the successful application of data preprocessing, exploratory data analysis, and machine learning techniques. The dataset, balanced and clean, reveals that the species Setosa is easily distinguishable based on petal and sepal measurements. This project confirms the reliability of Logistic Regression for iris species classification, underscoring the power of machine learning in biological classification tasks.
 
