@@ -24,7 +24,7 @@ The classification aims to:
 1. Understand the distribution and relationships between different features of iris flowers.
 2. Clean and preprocess the data for machine learning.
 3. Implement and evaluate classification models to predict the species of iris flowers.
-4. Provide actionable insights and recommendations based on the model performance.
+4. Provide actionable insights based on the model performance.
 
 # TOOLS AND TECHNOLOGIES USED
 
