@@ -41,7 +41,7 @@ The classification aims to:
 # CONCLUSION
 Based on the insights gathered, the Logistic Regression model effectively classifies iris flowers into their respective species with high accuracy. This project demonstrates the application of basic data preprocessing, exploratory data analysis, and machine learning techniques.
 
-# KEY FINDINGS
+**KEY FINDINGS**
 1. The dataset is well-balanced with no missing values after cleaning.
 2. The species Setosa is easily distinguishable from the other two species based on petal and sepal measurements.
 3. Logistic Regression provides a reliable method for classifying iris species with high accuracy.
